@@ -1,0 +1,1 @@
+{"version":3,"sources":["todoList.scss"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,cAAe,CACf,sBAAuB,CACvB,iBAAkB,CAClB,eAAgB","file":"main.bb37627c.chunk.css","sourcesContent":[".list {\r\n  margin: 15px;\r\n  padding: 0 15px;\r\n  border: 2px green solid;\r\n  border-radius: 5px;\r\n  list-style: none;\r\n}\r\n"]}
